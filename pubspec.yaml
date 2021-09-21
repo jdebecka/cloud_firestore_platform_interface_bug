@@ -1,0 +1,16 @@
+name: sample_issue
+description: A package that shows and issue with git@github.com:jdebecka&#x2F;cloud_firestore_platform_interface
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.13.0 <3.0.0"
+
+dependencies:
+  cloud_firestore_platform_interface: ^5.4.1
+  flutter:
+    sdk: flutter 
+  
+dev_dependencies:
+  test: ^1.17.0
+  very_good_analysis: ^2.3.0
